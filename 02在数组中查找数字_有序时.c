@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-01-26 10:08:36
  * @LastEditors: your name
  * @Description: In User Settings Edit
- * @FilePath: \20210125\焦文垚\在数组中查找数字_无序时.c
+ * @FilePath: \20210125\廖尚聪\在数组中查找数字_无序时.c
  */
 #include <stdio.h>
 #include <time.h>

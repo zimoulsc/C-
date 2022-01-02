@@ -5,16 +5,16 @@ int main()
 	char res;
 	char password[20] = {0};
 	char ch;
-	printf("ÇëÊäÈëÃÜÂë: "); 
+	printf("è¯·è¾“å…¥å¯†ç : "); 
 	scanf("%s" , password);
 	while((ch = getchar()) != '\n')
 	{
 		 
 	}
-	printf("ÇëÈ·ÈÏ£¨Y/N£©£º");
-	 res = getchar();
+	printf("è¯·ç¡®è®¤ï¼ˆY/Nï¼‰ï¼š");
+	res = getchar();
 	if (res == 'Y')
-	printf("È·ÈÏ³É¹¦\n");
+	printf("ç¡®è®¤æˆåŠŸ\n");
 	else 
-	printf("·ÅÆúÈ·ÈÏ\n"); 
+	printf("æ”¾å¼ƒç¡®è®¤\n"); 
 }
